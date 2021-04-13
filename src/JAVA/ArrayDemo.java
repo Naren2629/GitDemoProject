@@ -6,7 +6,7 @@ public class ArrayDemo {
 		
 		String hungry = "Yes";
 		
-		if(hungry == "Yes") {
+		if(hungry == "Yes" || hungry == "Y") {
 			System.out.println("Eat something");
 		}
 	}
